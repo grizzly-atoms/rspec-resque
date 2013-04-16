@@ -18,5 +18,5 @@ desc
   s.require_paths = ["lib"]
   
   s.add_runtime_dependency('resque', ['~> 1.17'])
-  s.add_runtime_dependency('rspec', ['~> 2.6.0'])
+  s.add_runtime_dependency('rspec', ['~> 2.13'])
 end
